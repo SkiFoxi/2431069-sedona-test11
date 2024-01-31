@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Данила  Родионов](https://up.htmlacademy.ru/univer-html1/2/user/2431069).
+* Студент: [Волков Кирилл]([https://up.htmlacademy.ru/univer-html1/2/user/2431069](https://htmlacademy.ru/profile/id2441581)).
 * Наставник: `Алексей Самохвалов`(https://htmlacademy.ru/profile/id1443429).
 
 ---
